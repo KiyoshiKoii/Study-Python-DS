@@ -1,0 +1,1 @@
+Xin chào, đây là nơi để Khôi học python data science
