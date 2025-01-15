@@ -1,1 +1,1 @@
-Xin chào, đây là nơi để Khôi học python data science
+Somewhere that Khoi going to learn data science with python
